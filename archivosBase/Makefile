@@ -48,6 +48,7 @@ depend:
 clean:
 	rm -f $(JUNK) y.output $(PRODUCTS)
 
+
 # DO NOT DELETE
 
 errors.o: errors.h location.h /usr/include/stdio.h /usr/include/features.h
